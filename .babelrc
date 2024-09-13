@@ -1,0 +1,4 @@
+// config babelrc
+{
+    "presets": ["@babel/preset-env"]
+}
